@@ -1,0 +1,28 @@
+# LLM-Oriented Instruction Blueprints
+
+This repository contains structured instructions for designing, organizing, and optimizing cognitive software based on Large Language Models (LLMs).
+
+## Structure
+/instructions — core LLM instruction templates  
+/blueprints — architectural system blueprints  
+/meta — meta-instructions for instruction generation  
+/use-cases — applied task-specific instruction sets  
+/standards — formatting and quality standards  
+
+## Purpose
+- Centralized storage of reusable instruction patterns  
+- Fast setup for production-ready LLM systems  
+- Modular, structured, and adaptable content  
+
+## Requirements
+- Format: .md or .txt  
+- Must include: title, purpose, usage structure  
+- Minimal explanations, maximum clarity of action  
+
+## Usage
+1. Select a relevant instruction file  
+2. Adapt it to your system or use case  
+3. Integrate into your workflow or LLM prompt interface  
+
+## License
+MIT
