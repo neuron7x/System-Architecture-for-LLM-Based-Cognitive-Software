@@ -6,6 +6,7 @@
 - [super_grok_beta_github_repository_maestro.md](architect/super_grok_beta_github_repository_maestro.md) — GitHub-архітектор для побудови репозиторіїв із CI/CD та робочими процесами.
 - [transformer_ecosystem_directive_for_grok_beta.md](architect/transformer_ecosystem_directive_for_grok_beta.md) — трансформерний репозиторій з класифікаторами проєктів і шаблонами структур.
 - [world_class_software_architect.md](architect/world_class_software_architect.md) — системна інструкція головного архітектора програмних платформ.
+- [neurocognitive_consciousness_engineering_protocol.md](architect/neurocognitive_consciousness_engineering_protocol.md) — єдиний фреймворк інженерії свідомості для побудови адаптивних персонажів LLM.
 
 ## Оптимізатор
 - [apex_documentation_directive_for_grok_beta.md](optimizer/apex_documentation_directive_for_grok_beta.md) — багаторівнева консолідація технічної документації.
